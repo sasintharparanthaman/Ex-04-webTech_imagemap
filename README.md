@@ -30,7 +30,9 @@ Run the program
         MY HOME, KANCHIPURAM
     </h1>
     <p>
-        "My home is a haven of comfort and joy. Each room tells a story, adorned with memories and cherished belongings. It resonates with laughter, echoes of shared moments, and the aroma of familiar meals. It's not just a place; it's a sanctuary where love and warmth create a tapestry of belonging." 
+        "My home is a haven of comfort and joy. Each room tells a story, adorned with memories and cherished belongings.
+It resonates with laughter, echoes of shared moments, and the aroma of familiar meals.
+ It's not just a place; it's a sanctuary where love and warmth create a tapestry of belonging." 
     </p>
 </BODY>
 
@@ -40,7 +42,12 @@ Run the program
         Kanchipuram Sri Varshini Silk House , KANCHIPURAM
     </h1>
     <p>
-        Kanchipuram Sri Varshini Silk House stands as a prominent destination for those seeking the finest silk sarees in the heart of Kanchipuram. Renowned for its exquisite collection, the store showcases the artistry of traditional Kanchipuram silk weaving. Customers are greeted with a kaleidoscope of vibrant colors and intricate designs, each saree reflecting the heritage and craftsmanship of the region. Sri Varshini Silk House is a treasure trove for those celebrating special occasions or desiring a touch of elegance in their attire. The establishment's commitment to quality and tradition has made it a revered destination for silk connoisseurs and fashion enthusiasts alike.
+        Kanchipuram Sri Varshini Silk House stands as a prominent destination for those seeking the
+ finest silk sarees in the heart of Kanchipuram. Renowned for its exquisite collection, the store showcases the
+ artistry of traditional Kanchipuram silk weaving. Customers are greeted with a kaleidoscope of vibrant colors
+and intricate designs, each saree reflecting the heritage and craftsmanship of the region. Sri Varshini Silk House
+ is a treasure trove for those celebrating special occasions or desiring a touch of elegance in their attire.
+ The establishment's commitment to quality and tradition has made it a revered destination for silk connoisseurs and fashion enthusiasts alike.
      
     </p>
 </BODY>
@@ -51,7 +58,13 @@ Run the program
         Ekambaranathar Temple East Gopuram, KANCHIPURAM
     </h1>
     <p>
-        The East Gopuram of Ekambaranathar Temple in Kanchipuram stands as a magnificent testament to Dravidian architecture. Rising high with intricate carvings and vibrant sculptures, it is a splendid entrance to the sacred site dedicated to Lord Shiva. Constructed during the Vijayanagara period, the gopuram showcases elaborate depictions of mythological tales and deities, reflecting the rich cultural tapestry of South India. Adorned with finely sculpted gods, goddesses, and celestial beings, it symbolizes the artistic brilliance of ancient Tamil craftsmanship. Pilgrims and tourists alike marvel at the East Gopuram's grandeur, a doorway that beckons spiritual seekers into a realm of divine beauty.
+        The East Gopuram of Ekambaranathar Temple in Kanchipuram stands as a magnificent testament to Dravidian
+ architecture. Rising high with intricate carvings and vibrant sculptures, it is a splendid entrance to the sacred
+ site dedicated to Lord Shiva. Constructed during the Vijayanagara period, the gopuram showcases elaborate depictions
+ of mythological tales and deities, reflecting the rich cultural tapestry of South India. Adorned with finely
+sculpted gods, goddesses, and celestial beings, it symbolizes the artistic brilliance of ancient Tamil craftsmanship.
+ Pilgrims and tourists alike marvel at the East Gopuram's grandeur, a doorway that beckons spiritual seekers into a
+ realm of divine beauty.
     </p>
 </BODY>
 
@@ -61,7 +74,13 @@ Run the program
         CHOLAN SCHOOL, KANCHIPURAM
     </h1>
     <p>
-        Cholan Matric Higher Secondary School in Kanchipuram is an esteemed institution known for its commitment to academic excellence and holistic development. With a rich history, the school provides a nurturing environment for students, fostering intellectual growth and character building. The dedicated faculty employs innovative teaching methods, preparing students for a dynamic future. The school's infrastructure supports various extracurricular activities, enhancing students' skills beyond academics. Cholan Matric HSS is a proud hub of cultural diversity, promoting inclusivity. Its legacy of producing well-rounded individuals stands testament to its unwavering dedication to shaping bright and responsible citizens.     
+        Cholan Matric Higher Secondary School in Kanchipuram is an esteemed institution known for its
+commitment to academic excellence and holistic development. With a rich history, the school provides a
+ nurturing environment for students, fostering intellectual growth and character building. The dedicated
+faculty employs innovative teaching methods, preparing students for a dynamic future. The school's
+ infrastructure supports various extracurricular activities, enhancing students' skills beyond academics.
+ Cholan Matric HSS is a proud hub of cultural diversity, promoting inclusivity. Its legacy of producing
+ well-rounded individuals stands testament to its unwavering dedication to shaping bright and responsible citizens.     
      
     </p>
 </BODY>
@@ -72,7 +91,13 @@ Run the program
         B1, Siva Kanchi Police Station, KANCHIPURAM
     </h1>
     <p>
-        B1 Siva Kanchi Police Station in Kanchipuram serves as a crucial hub for law enforcement, ensuring the safety and security of the region's residents. Strategically located, it plays a pivotal role in maintaining public order and addressing criminal activities. Staffed by dedicated officers, the police station is equipped to handle a range of situations, from routine inquiries to emergencies. The presence of B1 Siva Kanchi Police Station underscores the commitment to maintaining law and order in the community. It serves as a reassuring presence for locals and contributes to the overall well-being and harmony of Kanchipuram's urban landscape.
+        B1 Siva Kanchi Police Station in Kanchipuram serves as a crucial hub for law enforcement,
+ ensuring the safety and security of the region's residents. Strategically located, it plays a
+pivotal role in maintaining public order and addressing criminal activities. Staffed by dedicated officers,
+the police station is equipped to handle a range of situations, from routine inquiries to emergencies.
+ The presence of B1 Siva Kanchi Police Station underscores the commitment to maintaining law and
+order in the community. It serves as a reassuring presence for locals and contributes to the overall
+ well-being and harmony of Kanchipuram's urban landscape.
      
     </p>
 </BODY>
