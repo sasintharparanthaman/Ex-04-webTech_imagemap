@@ -13,7 +13,7 @@ Run the program
 
 
 # Code:
-
+```
 <img src="C:\Users\admin\Pictures\Screenshots\IMAGE\KANCHIPURAM.png" alt="KACHIPURAM" usemap="#KANCHI">
 
 <map name="KANCHI">
@@ -76,7 +76,7 @@ Run the program
      
     </p>
 </BODY>
-
+```
 
 # Output:
 ![KANCHIPURAM](https://github.com/sasintharparanthaman/Ex-04-webTech_imagemap/assets/145743219/d8925e10-2dfb-4684-93dd-664ebcacf5d3)
